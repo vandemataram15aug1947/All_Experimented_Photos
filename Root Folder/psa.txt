@@ -1,0 +1,215 @@
+ImageBase: 0xA782B000
+EPSA Build  4304.14 UEFI ROM, Service Tag: FZMSXN2, Node: 0, SystemID: 078B, BIOS: 2.9.0
+
+Starting PSA Main.
+
+[ Cables ]
+Motherboard PPID = CN033HWXWSC0088T005OA00
+Platform SSID = 078B
+Power Supply = Installed
+CPU = Installed
+Memory Module = Installed
+Functional Memory = Installed
+Memory SPD = Installed
+LCD Cable = Installed
+Microphone Camera Board Option = Installed
+Wireless LAN = Installed
+Bluetooth = Installed
+
+[ PCIe ]
+PCIe Physical Slots = 2
+       Bus  1, Slot 08: Vendor 168C, Device 0042, SubVendor 1028, SubDevice 1810, Tag 0100
+       Bus  2, Slot 09: Vendor 10EC, Device 8136, SubVendor 1028, SubDevice 078A, Tag 0200
+
+[ LCD/Display Panel ]
+Horizontal resolution = 1024 pixels
+Vertical resolution = 768 pixels
+Bits per pixel = 32
+EDID Length = 128 bytes
+LCD Panel supports BIST = Yes
+
+[ Speaker ]
+Beep Generator = Speaker/Buzzer
+
+[ Storage ]
+Hard Drive 0-0-0
+       OEM: ATA, product: KINGSTON SA400S37480G, revision: S3Z40107,
+       S/N: 50026B77838F055B, type: SATA SSD, size: 480 GB
+CDROM Drive 0-0-0
+       OEM: HL-DT-ST, product: DVD+-RW GU90N, revision: A1C3,
+       S/N: M1CI5MF4501, type: ATAPI
+
+[ Boot ]
+BootPath = MBR of Hard Drive 0-0-0
+
+[ USB ]
+v301w = 03F0:F340
+      Manufacturer = HP
+      Serial Number = 6E00955AB617B523
+Usb Mouse = 1C4F:0034
+      Manufacturer = SIGMACHIP
+Integrated Webcam = 1BCF:28C0
+      Manufacturer = CN0F08KGLOG0087CB3S8A02
+USB2.0-CRW = 0BDA:0129
+      Manufacturer = Generic
+      Serial Number = 20100201396000000
+Wireless Cntrlr = 0CF3:E009
+
+[ Video ]
+       Video Controller, VendorID 8086, DeviceID 5921,
+       Memory Size 3.0 MB, Address: 0xC0000000
+
+[ Fan ]
+Processor Fan = 0 RPM
+
+[ Processor ]
+Processor sockets = 1
+       U3E1: Intel(R) Core(TM) i3-7020U CPU @ 2.30GHz
+
+[ Memory ]
+System Memory = 12288 MB
+       BANK 0 DIMM A, 4096 MB, DDR4, 2400 MHz, MFG: 802C0000802C, S/N: 1DD7CA56, P/N: 4ATF51264HZ-2G3E1
+       BANK 2 DIMM B, 8192 MB, DDR4, 2667 MHz, MFG: 859B0000802C, S/N: E7BCA2D6, P/N: CB8GS2666.C8RT
+
+[ System Management ]
+Temperature Sensor = CPU Thermistor
+Temperature Sensor = Ambient Thermistor
+
+[ Diag Events ]
+DIAG 01/01/2009 00:03:35 Pass PSA 4304.14 Validate Code : 78130  ePSA quick test pass
+DIAG 01/01/2009 00:02:09 Fail PSA 4304.14 Error 2000:0131. Validate Code : 118281  Battery - The battery is not installed
+DIAG 01/01/2009 00:01:53 Fail PSA 4304.14 Error 2000:0131. Validate Code : 118281  Battery - The battery is not installed
+DIAG 03/31/2024 16:00:14 Fail PSA 4304.14 Error 2000:0131. Validate Code : 101905  Battery - The battery is not installed
+DIAG 03/31/2024 15:35:13 Fail PSA 4304.14 Error 2000:0131. Validate Code : 69398  Battery - The battery is not installed
+DIAG 03/31/2024 15:29:05 Fail PSA 4304.14 Error 2000:0131. Validate Code : 69398  Battery - The battery is not installed
+DIAG 03/31/2024 15:25:42 Fail PSA 4304.14 Error 2000:0131. Validate Code : 69398  Battery - The battery is not installed
+DIAG 03/31/2024 03:13:23 Fail PSA 4304.14 Error 2000:0131. Validate Code : 69398  Battery - The battery is not installed
+DIAG 03/31/2024 03:10:23 Fail PSA 4304.14 Error 2000:0131. Validate Code : 69398  Battery - The battery is not installed
+DIAG 03/31/2024 02:47:27 Fail PSA 4304.14 Error 2000:0131. Validate Code : 69398  Battery - The battery is not installed
+DIAG 03/31/2024 00:31:26 Fail PSA 4304.14 Error 2000:0131. Validate Code : 69398  Battery - The battery is not installed
+DIAG 03/31/2024 00:31:08 Fail PSA 4304.14 Error 2000:0131. Validate Code : 69398  Battery - The battery is not installed
+DIAG 03/31/2024 00:27:35 Fail PSA 4304.14 Error 2000:0131. Validate Code : 69398  Battery - The battery is not installed
+DIAG 03/30/2024 22:55:51 Fail PSA 4304.14 Error 2000:0131. Validate Code : 102379  Battery - The battery is not installed
+DIAG 03/30/2024 22:52:21 Fail PSA 4304.14 Error 2000:0131. Validate Code : 102379  Battery - The battery is not installed
+DIAG 03/30/2024 22:51:52 Fail PSA 4304.14 Error 2000:0131. Validate Code : 102379  Battery - The battery is not installed
+DIAG 03/29/2024 17:31:35 Fail PSA 4304.14 Error 2000:0334. Validate Code : 87574  Video - User reported the patterns were not displayed
+DIAG 03/29/2024 17:28:31 Fail PSA 4304.14 Error 2000:0131. Validate Code : 101860  Battery - The battery is not installed
+DIAG 03/29/2024 17:27:00 Fail PSA 4304.14 Error 2000:0131. Validate Code : 101860  Battery - The battery is not installed
+DIAG 03/29/2024 17:25:53 Fail PSA 4304.14 Error 2000:0334. Validate Code : 87574  Video - User reported the patterns were not displayed
+DIAG 03/29/2024 17:18:59 Fail PSA 4304.14 Error 2000:0334. Validate Code : 87574  Video - User reported the patterns were not displayed
+
+** Cables - Functional Test **
+Started: 01/01/2009 00:01:08  
+Ended: 01/01/2009 00:01:08, Elapsed time: 00:00:00
+Test Results : Pass
+
+
+** PCIe Bus - PCIe Test **
+Started: 01/01/2009 00:01:08  
+Bus 01: Link Trained x1, Slot 8
+Bus 02: Link Trained x1, Slot 9
+Bus 01: Link Trained x1, Slot 8
+Bus 02: Link Trained x1, Slot 9
+Ended: 01/01/2009 00:01:08, Elapsed time: 00:00:00
+Test Results : Pass
+
+
+** LCD/Display Panel - Functional Test **
+Started: 01/01/2009 00:01:08  
+Ended: 01/01/2009 00:01:19, Elapsed time: 00:00:11
+Test Results : Pass
+
+
+** Hard Drive 0-0-0 - DST Short Test **
+Started: 01/01/2009 00:01:19  
+Running: 01/01/2009 00:01:19, Elapsed time: 00:00:00
+Test Results : Running
+
+
+** CDROM Drive 0-0-0 - Optical Device Built-in Self Test **
+Started: 01/01/2009 00:01:19  
+Ended: 01/01/2009 00:01:46, Elapsed time: 00:00:27
+Test Results : Pass
+
+
+** OS Boot Path 0-0-0 - Functional Test **
+Started: 01/01/2009 00:01:46  
+Ended: 01/01/2009 00:01:46, Elapsed time: 00:00:00
+Test Results : Pass
+
+
+** USB Devices - Device Ping **
+Started: 01/01/2009 00:01:46  
+v301w 03F0:F340
+Usb Mouse 1C4F:0034
+Integrated Webcam 1BCF:28C0
+USB2.0-CRW 0BDA:0129
+Wireless Cntrlr 0CF3:E009
+Ended: 01/01/2009 00:01:46, Elapsed time: 00:00:00
+Test Results : Pass
+
+
+** Integrated Webcam - Integrated Webcam **
+Started: 01/01/2009 00:01:46  
+Ended: 01/01/2009 00:01:46, Elapsed time: 00:00:00
+Test Results : Pass
+
+
+** Integrated Webcam - Sensor_Communication_Test **
+Started: 01/01/2009 00:01:46  
+Ended: 01/01/2009 00:01:46, Elapsed time: 00:00:00
+Test Results : Pass
+
+
+** Integrated Webcam - Serial_Flash_Checking_Test **
+Started: 01/01/2009 00:01:46  
+Ended: 01/01/2009 00:01:47, Elapsed time: 00:00:01
+Test Results : Pass
+
+
+** Integrated Webcam - Register_Test **
+Started: 01/01/2009 00:01:47  
+Ended: 01/01/2009 00:01:47, Elapsed time: 00:00:00
+Test Results : Pass
+
+
+** Integrated Webcam - Controller_Test **
+Started: 01/01/2009 00:01:47  
+Ended: 01/01/2009 00:01:47, Elapsed time: 00:00:00
+Test Results : Pass
+
+
+** Integrated Webcam - Luminance_000 **
+Started: 01/01/2009 00:01:47  
+Ended: 01/01/2009 00:01:48, Elapsed time: 00:00:01
+Test Results : Pass
+
+
+** Video Card - Video Card Connection Test **
+Started: 01/01/2009 00:01:48  
+Ended: 01/01/2009 00:01:48, Elapsed time: 00:00:00
+Test Results : Pass
+
+
+** Video Card - Video Memory Test **
+Started: 01/01/2009 00:01:48  
+Testing 3.0 MB at address 0xC0000000
+Ended: 01/01/2009 00:01:48, Elapsed time: 00:00:00
+Test Results : Pass
+
+
+** Primary Battery - Functional Test **
+Started: 01/01/2009 00:01:48  
+Ended: 01/01/2009 00:01:49, Elapsed time: 00:00:01
+Test Results : Fail
+Error Code : 2000-0131
+Validation : 118281
+Msg : Battery - The battery is not installed
+
+
+** Hard Drive 0-0-0 - DST Short Test **
+Started: 01/01/2009 00:01:19  
+Ended: 01/01/2009 00:01:54, Elapsed time: 00:00:35
+Test Results : User Abort
+
+
